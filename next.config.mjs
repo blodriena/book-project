@@ -10,4 +10,5 @@ const nextConfig = {
     ],
   },
 };
-export default nextConfig;
+expor
+t default nextConfig;
